@@ -13,16 +13,15 @@
 <h2>Setup</h2>
 <ol>
 <li>Clone the repository.</li>
-<li>Set up the MySQL database (<code>database/schema.sql</code>).</li>
-<li>Configure MySQL connection (<code>src/main/java/com/example/librarymanagement/util/DatabaseUtil.java</code>).</li>
+<li>Set up the MySQL database </li>
+<li>Configure MySQL connection</li>
 <li>Build and run the application.</li>
 </ol>
 <h2>Usage</h2>
 <ol>
 <li>Launch the application.</li>
-<li>Log in (if required).</li>
+<li>Log in</li>
 <li>Use the interface to perform tasks.</li>
-<li>Save changes before exiting.</li>
 </ol>
 <h2>Contributing</h2>
 <p>Contributions are welcome! Please open an issue or submit a pull request.</p>
